@@ -1,8 +1,10 @@
 <div align="center">
 
+<img src="docs/logo.png" alt="Slatewave" width="840" />
+
 # Slatewave (MarkEdit)
 
-A [Slatewave](https://getslatewave.com) theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) — the native macOS markdown editor. Part of the [Slatewave family](#slatewave-family) — one palette across editors, terminals, prompts, notes, and more.
+A Slatewave theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) — the native macOS markdown editor. Part of the [Slatewave family](#slatewave-family) — one palette across editors, terminals, prompts, notes, and more.
 
 > _Slate below, teal above._
 
@@ -116,10 +118,10 @@ For deeper customization, fork this repo, edit `main.ts`, and rebuild.
 One palette. Every tool.
 
 - **Editors** — [VSCode](https://github.com/kevinlangleyjr/vscode-slatewave) · [Neovim](https://github.com/kevinlangleyjr/neovim-slatewave) · [Helix](https://github.com/kevinlangleyjr/helix-slatewave) · [Zed](https://github.com/kevinlangleyjr/zed-slatewave) · [Sublime Text](https://github.com/kevinlangleyjr/sublime-text-slatewave) · [JetBrains](https://github.com/kevinlangleyjr/jetbrains-slatewave)
-- **Markdown** — [MarkEdit](https://github.com/kevinlangleyjr/markedit-slatewave) · [Obsidian](https://github.com/kevinlangleyjr/obsidian-slatewave) · [Logseq](https://github.com/kevinlangleyjr/logseq-slatewave)
 - **Terminals** — [Alacritty](https://github.com/kevinlangleyjr/alacritty-slatewave) · [Ghostty](https://github.com/kevinlangleyjr/ghostty-slatewave) · [iTerm2](https://github.com/kevinlangleyjr/iterm2-slatewave) · [WezTerm](https://github.com/kevinlangleyjr/wezterm-slatewave) · [Windows Terminal](https://github.com/kevinlangleyjr/windows-terminal-slatewave)
 - **Prompts** — [Oh My Posh](https://github.com/kevinlangleyjr/slatewave-omp) · [Starship](https://github.com/kevinlangleyjr/starship-slatewave)
 - **Multiplexer** — [tmux](https://github.com/kevinlangleyjr/tmux-slatewave)
+- **Notes** — [Obsidian](https://github.com/kevinlangleyjr/obsidian-slatewave) · [Logseq](https://github.com/kevinlangleyjr/logseq-slatewave)
 - **Launchers** — [Alfred](https://github.com/kevinlangleyjr/alfred-slatewave) · [Raycast](https://github.com/kevinlangleyjr/raycast-slatewave)
 - **Chat** — [Slack](https://github.com/kevinlangleyjr/slack-slatewave)
 
