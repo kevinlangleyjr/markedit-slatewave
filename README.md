@@ -12,6 +12,8 @@ A Slatewave theme for [MarkEdit](https://github.com/MarkEdit-app/MarkEdit) — t
 
 > _Slate below, teal above._
 
+![Slatewave preview](docs/preview.png)
+
 </div>
 
 ---
